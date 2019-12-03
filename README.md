@@ -8,7 +8,7 @@ Electrical and Computer Engineering Fall 2019 at Stevens Institute of Technology
 * **Teaching Assistant:**   Bingyang Wen (bwen4@stevens.edu)
 * **Office Hours:**		
   * Sergul Aydore: Burchard Building 211, Thursdays at 1.00pm-3.00pm
-  * Bingyang Wen: Burchard Building 315, Mondays at 1.00pm-3.00pm and Wednesdays at 3.00pm-5.00pm
+  * Bingyang Wen: Burchard Building 315, Mondays at 2.30pm-4.30pm and Wednesdays at 3.00pm-5.00pm
 
 * **Course Web Address:**	https://github.com/sergulaydore/EE551-Fall-2019
 * **Cross-listed with:** 	CPE 551
@@ -57,7 +57,7 @@ Late Policy: Assignments submitted after the deadline will not be graded.
     - the quality of the code                   (20 %)
     - inclusion of test codes                   (20 %)
     - reproducibility                           (10 %)
-* Final exam date: **TBA**
+* Final exam date: **12/12/2019 Thursday at 6.30pm in BC 319 **
 
 ## ACADEMIC INTEGRITY 
 
